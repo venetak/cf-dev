@@ -1,2 +1,2 @@
 # cf-dev
-CloudFoundry Playground
+CloudFoundry Playground for PoCs and Learning
